@@ -3,4 +3,4 @@ Data analysis for eye-tracking study on multi-sensory information processing, ra
 
 | ![AOI](/img/AreaOfInterest.png) |
 | :--: |
-| *Area of Interest (AOI) with eye-tracker: eyes, mouth, entire face* |
+| *Area of Interest (AOI)* |
