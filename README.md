@@ -6,7 +6,8 @@ Data analysis for eye-tracking study on multi-sensory information processing, ra
 | *Area of Interest (AOI)* |
 
 ## NSF Adult
-4 faces, 12 AOI, synchronous and asynchronous speech, children aged 3-8.
+4 faces, 12 AOI, synchronous and asynchronous speech, children aged 3-8.  
+[documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5pxblOHaCoIsqtSJFN1I/edit?usp=sharing)
 
 ## NSF Child
 4 faces, 12 AOI, synchronous and asynchronous speech.
@@ -14,7 +15,7 @@ Data analysis for eye-tracking study on multi-sensory information processing, ra
 ## IM-Multi
 2 faces of different races (White, Black, Asian), synchronous speech and non-synchronous speech.
 
-## Dr. Seuss
+## Dr. Seusss
 2 face, match speech with synchronous mouth movement.
 
 ## 1F
