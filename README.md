@@ -7,7 +7,7 @@ Data analysis for eye-tracking study on multi-sensory information processing, ra
 
 ## NSF Adult
 4 faces, 12 AOI, synchronous and asynchronous speech, children aged 3-8.  
-[documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5pxblOHaCoIsqtSJFN1I/edit?usp=sharing)
+See [documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5pxblOHaCoIsqtSJFN1I/edit?usp=sharing) for data processing.
 
 ## NSF Child
 4 faces, 12 AOI, synchronous and asynchronous speech.
