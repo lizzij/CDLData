@@ -20,4 +20,4 @@ See [documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5
 2 face, match speech with synchronous mouth movement.
 
 ## 1F
-1 face, forward speech, backward speech, silent speech.s
+1 face, forward speech, backward speech, silent speech.
