@@ -21,3 +21,6 @@ See [documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5
 
 ## 1F
 1 face, forward speech, backward speech, silent speech.
+
+## IM Infant
+3 types of faces, 2 stimulus each.
