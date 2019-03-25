@@ -24,3 +24,6 @@ See [documentation](https://docs.google.com/document/d/1KdtgIK5iGbEP077q-DHwlCD5
 
 ## IM Infant
 3 types of faces, 2 stimulus each.
+
+## NSF BB Child
+Bouncing balls, 4 AOI (3 distractors, 1 target), sync & async
